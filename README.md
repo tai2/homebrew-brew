@@ -1,10 +1,10 @@
-# Tai2 Tai2
+# Tai2 Brew
 
 ## How do I install these formulae?
 
-`brew install tai2/tai2/<formula>`
+`brew install tai2/brew/<formula>`
 
-Or `brew tap tai2/tai2` and then `brew install <formula>`.
+Or `brew tap tai2/brew` and then `brew install <formula>`.
 
 ## Documentation
 
