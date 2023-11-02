@@ -1,8 +1,8 @@
 class Decor < Formula
   desc "Markdown transformer for single page, which uses a HTML file as a template"
   homepage "https://github.com/tai2/decor"
-  url "https://github.com/tai2/decor/archive/refs/tags/v0.0.6.tar.gz"
-  sha256 "7dc5fe77a8f88e8bf4fde2af028b3580d8ef3cd23f89cce4509424a3a98b72fe"
+  url "https://github.com/tai2/decor/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "0cb7477665a1d9088dd2cc3ebb331ccca2702ef96946f4218a1e4099ef727292"
   license "MIT"
 
   depends_on "deno"
